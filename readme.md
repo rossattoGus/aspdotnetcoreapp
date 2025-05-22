@@ -4,15 +4,15 @@ Aprendendo com a documentação no site [oficial da Microsoft](https://learn.mic
 # Requisitos
 SDK do .NET 8
 # Como executar?
-Para clonar este repositório
-´´´bash
+Para executar esta aplicação você deve baixar na sua máquina este repositório:
+```bash
 clone https://github.com/rossattoGus/aspdotnetcoreapp.git
-´´´
-Entrar no repositório
-´´´bash
+```
+Entrar no repositório:
+```bash
 cd aspdotnetcoreapp
-´´´
-Executar
-´´´bash
+```
+Executar o comando:
+```bash
 dotnet run
-´´´
+```

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\training\\aspdotnetcoreapp\\aspdotnetcoreapp.csproj",
+      "projectUniqueName": "C:\\training\\aspdotnetcoretraining\\aspdotnetcoreapp\\aspdotnetcoreapp.csproj",
       "projectName": "aspdotnetcoreapp",
-      "projectPath": "C:\\training\\aspdotnetcoreapp\\aspdotnetcoreapp.csproj",
+      "projectPath": "C:\\training\\aspdotnetcoretraining\\aspdotnetcoreapp\\aspdotnetcoreapp.csproj",
       "packagesPath": "C:\\Users\\rossa\\.nuget\\packages\\",
-      "outputPath": "C:\\training\\aspdotnetcoreapp\\obj\\",
+      "outputPath": "C:\\training\\aspdotnetcoretraining\\aspdotnetcoreapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rossa\\AppData\\Roaming\\NuGet\\NuGet.Config",
